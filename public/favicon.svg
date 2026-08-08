@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#050506"/>
+  <!-- Particle cluster in Google colors -->
+  <circle cx="16" cy="12" r="3.5" fill="#4285F4" opacity="0.95"/>
+  <circle cx="10" cy="18" r="3" fill="#EA4335" opacity="0.9"/>
+  <circle cx="22" cy="18" r="3" fill="#FBBC05" opacity="0.9"/>
+  <circle cx="16" cy="23" r="2.5" fill="#34A853" opacity="0.85"/>
+  <!-- Ambient particles -->
+  <circle cx="7" cy="8" r="1" fill="#4285F4" opacity="0.3"/>
+  <circle cx="25" cy="7" r="0.8" fill="#EA4335" opacity="0.25"/>
+  <circle cx="5" cy="25" r="0.7" fill="#FBBC05" opacity="0.2"/>
+  <circle cx="27" cy="24" r="0.9" fill="#34A853" opacity="0.25"/>
+  <circle cx="14" cy="5" r="0.5" fill="#fff" opacity="0.15"/>
+  <circle cx="24" cy="13" r="0.6" fill="#fff" opacity="0.12"/>
+  <!-- Plexus connections -->
+  <line x1="16" y1="12" x2="10" y2="18" stroke="#4285F4" stroke-width="0.4" opacity="0.3"/>
+  <line x1="16" y1="12" x2="22" y2="18" stroke="#FBBC05" stroke-width="0.4" opacity="0.3"/>
+  <line x1="10" y1="18" x2="16" y2="23" stroke="#EA4335" stroke-width="0.4" opacity="0.25"/>
+  <line x1="22" y1="18" x2="16" y2="23" stroke="#34A853" stroke-width="0.4" opacity="0.25"/>
+</svg>
